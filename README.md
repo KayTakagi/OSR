@@ -1,4 +1,4 @@
 OSR
 ===
 
-Open Sorce Repository
+Open Source Repository
